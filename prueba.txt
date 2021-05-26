@@ -2,8 +2,9 @@
       CABECERA - Rama Principal
 ---------------------------------
 ---------------------------------
-CUERPO
+CUERPO (Fondo Nuevo)
 ---------------------------------
 ---------------------------------
-FOOTER
+FOOTER (Facebook - Twitter - Instagram)
 ---------------------------------
+GIT 
