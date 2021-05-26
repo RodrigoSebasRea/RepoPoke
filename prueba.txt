@@ -5,6 +5,6 @@ CABECERA - Rama appBar(ROJO)
 CUERPO (Fondo Nuevo)
 ---------------------------------
 ---------------------------------
-FOOTER
+FOOTER (Facebook - Twitter - Instagram)
 ---------------------------------
 GIT 
