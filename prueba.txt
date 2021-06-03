@@ -2,7 +2,7 @@
       CABECERA - Rama Principal
 ---------------------------------
 ---------------------------------
-CUERPO (Fondo Nuevo) Incremento10
+CUERPO (Fondo Nuevo) Incremento en 1
 ---------------------------------
 ---------------------------------
 FOOTER (Facebook - Twitter - Instagram)
